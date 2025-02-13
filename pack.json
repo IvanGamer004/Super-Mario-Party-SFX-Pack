@@ -2,11 +2,11 @@
   "name": "Super Mario Party SFX Pack",
   "author": "IvanGamer004",
   "version": "v1.0",
-  "manifest_version": 2,
+  "manifest_version": 1,
   "music": false,
   "ignore": [
     "bumper_end.wav",
     "deck_ui_misc_01.wav",
-    "deck_ui_misc_08.wav",
-  ],
+    "deck_ui_misc_08.wav"
+  ]
 }
